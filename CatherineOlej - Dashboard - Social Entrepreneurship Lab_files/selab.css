@@ -13,3 +13,6 @@ label{
 .ui.menu.item{
     color: blue;
 }
+.ui.secondary.menu{
+    color: red;
+}
