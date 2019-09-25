@@ -11,7 +11,7 @@
     padding-bottom: .5em;
 }
 label{
-   color: green; 
+   color: #cc8181; 
 }
 .ui.green.button, .ui.green.buttons .button {
     background-color: #4162c4;
@@ -31,4 +31,16 @@ footer {
 a {
     color: #000000;
     text-decoration: none;
+}
+.ui.menu.three.item .item {
+    background-color: #1c1c1c;
+    color: #c5ccca;
+}
+.ui.attached.header {
+    background: #1c1c1c !important;
+    color: #b17c7c !important;
+    border: none !important;
+}
+footer {
+    color: #940f0f !important;
 }
