@@ -10,3 +10,9 @@
 label{
    color: green; 
 }
+.ui.green.button, .ui.green.buttons .button {
+    background-color: #4162c4;
+    color: #fff;
+    text-shadow: none;
+    background-image: none;
+}
